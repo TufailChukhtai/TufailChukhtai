@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TufailChukhtai
 - 👀 I’m interested in Data Science & Data Analytics
-- 🌱 I’m currently learning Python and Data Analytics technologies
+- 🌱 I have the following skills Data Analysis, EDA, Python, SQL, Machine Learning & PowerBI
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me you can contact me here on github.
 
